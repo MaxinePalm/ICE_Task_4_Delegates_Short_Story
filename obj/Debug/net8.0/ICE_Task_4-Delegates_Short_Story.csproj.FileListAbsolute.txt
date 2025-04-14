@@ -1,0 +1,14 @@
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\bin\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.exe
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\bin\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.deps.json
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\bin\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.runtimeconfig.json
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\bin\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.dll
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\bin\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.pdb
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.AssemblyInfoInputs.cache
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.AssemblyInfo.cs
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.csproj.CoreCompileInputs.cache
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.dll
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\refint\ICE_Task_4-Delegates_Short_Story.dll
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.pdb
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ICE_Task_4-Delegates_Short_Story.genruntimeconfig.cache
+C:\Users\maxin\source\repos\ICE_Task_4-Delegates_Short_Story\obj\Debug\net8.0\ref\ICE_Task_4-Delegates_Short_Story.dll

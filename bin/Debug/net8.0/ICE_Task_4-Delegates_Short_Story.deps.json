@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ICE_Task_4-Delegates_Short_Story/1.0.0": {
+        "runtime": {
+          "ICE_Task_4-Delegates_Short_Story.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICE_Task_4-Delegates_Short_Story/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
